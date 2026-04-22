@@ -1,1 +1,1 @@
-PASTE-YOUR-STREAMLIT-CLOUD-URL-HERE-AFTER-DEPLOY
+https://myhealthapp-weqqgkdppzv2pmnf2lywkw.streamlit.app/

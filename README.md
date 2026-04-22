@@ -13,7 +13,7 @@ This is an **evolution** of my Assignment 2 project (DanceFinder), applying the 
 | # | Feature | Detail |
 |---|---|---|
 | 1 | 📅 **Appointments** | 6 upcoming visits, email reminders that persist in SQLite |
-| 2 | 💶 **Finances** | Private-insurance tariff, claims, reimbursements — protected by Face ID |
+| 2 | 💶 **Finances** | Private-insurance tariff, claims, reimbursements, **AI receipt scanner (upload/camera/example)** — protected by Face ID |
 | 3 | 📋 **Records** | 10 historical visits — view **by specialty** OR as a **chronological timeline** |
 | 4 | 📊 **Insights** | 4 interactive Plotly charts: spending trends, specialty donut, preventive-care gauge, reimbursement rates |
 | 5 | 🔒 **Face ID auth** | Simulated biometric gate in front of sensitive financial data |
