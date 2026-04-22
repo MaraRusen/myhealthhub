@@ -1,0 +1,110 @@
+{
+  "summary": {
+    "year": 2026,
+    "total_billed_eur": 2847.5,
+    "total_covered_eur": 2420.0,
+    "total_out_of_pocket_eur": 427.5,
+    "pending_submission_eur": 215.0,
+    "pending_reimbursement_eur": 180.0
+  },
+  "claims": [
+    {
+      "id": "clm001",
+      "date": "2026-01-15",
+      "service": "Blood Test (comprehensive panel)",
+      "doctor": "Dr. Bauer",
+      "amount_eur": 245.0,
+      "covered_eur": 245.0,
+      "out_of_pocket_eur": 0.0,
+      "status": "Reimbursed",
+      "submitted_date": "2026-01-18",
+      "reimbursed_date": "2026-01-29"
+    },
+    {
+      "id": "clm002",
+      "date": "2025-11-20",
+      "service": "Dental Cleaning + X-Ray",
+      "doctor": "Dr. Schmidt",
+      "amount_eur": 185.0,
+      "covered_eur": 185.0,
+      "out_of_pocket_eur": 0.0,
+      "status": "Reimbursed",
+      "submitted_date": "2025-11-22",
+      "reimbursed_date": "2025-12-03"
+    },
+    {
+      "id": "clm003",
+      "date": "2025-07-18",
+      "service": "Gynecology Annual Check",
+      "doctor": "Dr. Weber",
+      "amount_eur": 95.0,
+      "covered_eur": 95.0,
+      "out_of_pocket_eur": 0.0,
+      "status": "Reimbursed",
+      "submitted_date": "2025-07-20",
+      "reimbursed_date": "2025-07-31"
+    },
+    {
+      "id": "clm004",
+      "date": "2025-06-05",
+      "service": "Skin Screening",
+      "doctor": "Dr. Müller",
+      "amount_eur": 120.0,
+      "covered_eur": 120.0,
+      "out_of_pocket_eur": 0.0,
+      "status": "Reimbursed",
+      "submitted_date": "2025-06-07",
+      "reimbursed_date": "2025-06-17"
+    },
+    {
+      "id": "clm005",
+      "date": "2025-03-22",
+      "service": "Eye Exam + Glasses Prescription",
+      "doctor": "Dr. Lang",
+      "amount_eur": 75.0,
+      "covered_eur": 60.0,
+      "out_of_pocket_eur": 15.0,
+      "status": "Reimbursed",
+      "submitted_date": "2025-03-25",
+      "reimbursed_date": "2025-04-05"
+    },
+    {
+      "id": "clm006",
+      "date": "2025-03-22",
+      "service": "Prescription Glasses (frames + lenses)",
+      "doctor": "Fielmann (optician)",
+      "amount_eur": 380.0,
+      "covered_eur": 240.0,
+      "out_of_pocket_eur": 140.0,
+      "status": "Reimbursed",
+      "submitted_date": "2025-03-28",
+      "reimbursed_date": "2025-04-10"
+    },
+    {
+      "id": "clm007",
+      "date": "2026-02-10",
+      "service": "Physiotherapy (neck/shoulder)",
+      "doctor": "Physio Plus Berlin",
+      "amount_eur": 215.0,
+      "covered_eur": 0.0,
+      "out_of_pocket_eur": 215.0,
+      "status": "Not yet submitted",
+      "submitted_date": null,
+      "reimbursed_date": null,
+      "notes": "Upload invoice to submit for reimbursement"
+    },
+    {
+      "id": "clm008",
+      "date": "2026-03-18",
+      "service": "Dermatology follow-up",
+      "doctor": "Dr. Müller",
+      "amount_eur": 180.0,
+      "covered_eur": 0.0,
+      "out_of_pocket_eur": 180.0,
+      "status": "Pending reimbursement",
+      "submitted_date": "2026-03-20",
+      "reimbursed_date": null,
+      "notes": "Processing — usually 10-14 days"
+    }
+  ]
+}

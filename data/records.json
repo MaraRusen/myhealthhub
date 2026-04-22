@@ -1,0 +1,163 @@
+{
+  "history": [
+    {
+      "id": "rec001",
+      "date": "2026-01-15",
+      "type": "Blood Test",
+      "specialty": "General Practitioner",
+      "doctor": "Dr. Bauer",
+      "icon": "🩸",
+      "findings": "All values within normal range except Vitamin D (slightly low at 18 ng/mL). Supplementation recommended.",
+      "key_results": {
+        "Hemoglobin": "13.4 g/dL (normal)",
+        "Vitamin D": "18 ng/mL (low)",
+        "Total Cholesterol": "185 mg/dL (normal)",
+        "LDL": "112 mg/dL (normal)",
+        "HDL": "58 mg/dL (normal)",
+        "Glucose (fasting)": "92 mg/dL (normal)",
+        "TSH (thyroid)": "2.1 mIU/L (normal)"
+      },
+      "file": "bloodtest_2026-01.pdf"
+    },
+    {
+      "id": "rec002",
+      "date": "2025-11-20",
+      "type": "Dental Cleaning & X-Ray",
+      "specialty": "Dentist",
+      "doctor": "Dr. Schmidt",
+      "icon": "🦷",
+      "findings": "No cavities. Minor gum recession on tooth #14 detected. Electric toothbrush recommended.",
+      "key_results": {
+        "Cavities": "None",
+        "Plaque Index": "Low",
+        "Gum Health": "Good (minor recession #14)",
+        "Last Cleaning": "6 months ago"
+      },
+      "file": "dental_2025-11.pdf"
+    },
+    {
+      "id": "rec003",
+      "date": "2025-07-18",
+      "type": "Gynecology Annual",
+      "specialty": "Gynecologist",
+      "doctor": "Dr. Weber",
+      "icon": "🌸",
+      "findings": "All results normal. Pap smear clear, HPV negative, ultrasound unremarkable.",
+      "key_results": {
+        "Pap Smear": "Normal",
+        "HPV Test": "Negative",
+        "Ultrasound": "Normal — no abnormalities",
+        "Breast Exam": "Normal"
+      },
+      "file": "gyn_2025-07.pdf"
+    },
+    {
+      "id": "rec004",
+      "date": "2025-06-05",
+      "type": "Skin Screening",
+      "specialty": "Dermatologist",
+      "doctor": "Dr. Müller",
+      "icon": "🔬",
+      "findings": "Full-body mole check. One mole on upper back photographed for monitoring. Re-check next year.",
+      "key_results": {
+        "Moles Examined": "~40",
+        "Suspicious Findings": "1 (benign, monitoring)",
+        "Biopsies Required": "None",
+        "UV Damage Assessment": "Moderate"
+      },
+      "file": "derma_2025-06.pdf"
+    },
+    {
+      "id": "rec005",
+      "date": "2025-03-22",
+      "type": "Eye Exam",
+      "specialty": "Ophthalmologist",
+      "doctor": "Dr. Lang",
+      "icon": "👁️",
+      "findings": "Mild myopia progression in right eye. New glasses prescription issued.",
+      "key_results": {
+        "Right Eye": "-1.75",
+        "Left Eye": "-1.50",
+        "Astigmatism": "None",
+        "Eye Pressure": "15 mmHg (normal)"
+      },
+      "file": "eye_2025-03.pdf"
+    },
+    {
+      "id": "rec006",
+      "date": "2024-10-14",
+      "type": "Flu Vaccination",
+      "specialty": "General Practitioner",
+      "doctor": "Dr. Bauer",
+      "icon": "💉",
+      "findings": "Seasonal flu vaccine administered. No adverse reaction.",
+      "key_results": {
+        "Vaccine": "Influvac Tetra 2024/25",
+        "Batch": "FL2024-8847",
+        "Reaction": "None"
+      },
+      "file": "vaccine_2024-10.pdf"
+    },
+    {
+      "id": "rec007",
+      "date": "2024-09-03",
+      "type": "General Check-Up",
+      "specialty": "General Practitioner",
+      "doctor": "Dr. Bauer",
+      "icon": "🩺",
+      "findings": "Overall health excellent. Blood pressure slightly elevated — monitor. Continue Vitamin D.",
+      "key_results": {
+        "Blood Pressure": "128/82 mmHg (borderline)",
+        "Heart Rate": "68 bpm",
+        "BMI": "22.1 (healthy)",
+        "Lung Function": "Normal"
+      },
+      "file": "checkup_2024-09.pdf"
+    },
+    {
+      "id": "rec008",
+      "date": "2023-05-12",
+      "type": "COVID-19 Booster",
+      "specialty": "General Practitioner",
+      "doctor": "Dr. Bauer",
+      "icon": "💉",
+      "findings": "COVID-19 booster vaccination (bivalent). Mild arm soreness only.",
+      "key_results": {
+        "Vaccine": "Comirnaty Original/Omicron BA.4-5",
+        "Dose": "Booster #2",
+        "Reaction": "Mild arm soreness 24h"
+      },
+      "file": "covid_2023-05.pdf"
+    },
+    {
+      "id": "rec009",
+      "date": "2022-11-08",
+      "type": "Dental Crown",
+      "specialty": "Dentist",
+      "doctor": "Dr. Schmidt",
+      "icon": "🦷",
+      "findings": "Ceramic crown placed on tooth #36. Procedure uncomplicated. 5-year warranty on crown.",
+      "key_results": {
+        "Tooth": "#36 (lower left molar)",
+        "Material": "Zirconium ceramic",
+        "Warranty": "5 years"
+      },
+      "file": "dental_crown_2022-11.pdf"
+    },
+    {
+      "id": "rec010",
+      "date": "2022-02-15",
+      "type": "HPV Vaccination (Catch-up)",
+      "specialty": "Gynecologist",
+      "doctor": "Dr. Weber",
+      "icon": "💉",
+      "findings": "Final HPV vaccine dose (3/3). Series complete.",
+      "key_results": {
+        "Vaccine": "Gardasil 9",
+        "Dose": "3 of 3 (series complete)",
+        "Reaction": "None"
+      },
+      "file": "hpv_2022-02.pdf"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Celina Becker",
+  "age": 35,
+  "date_of_birth": "1991-03-14",
+  "gender": "Female",
+  "city": "Berlin",
+  "address": "Prenzlauer Allee 42, 10405 Berlin",
+  "email": "celina.becker@example.com",
+  "phone": "+49 30 12345678",
+  "blood_type": "A+",
+  "height_cm": 170,
+  "weight_kg": 64,
+  "allergies": ["Penicillin", "Pollen (hay fever)"],
+  "chronic_conditions": ["Mild seasonal asthma"],
+  "current_medications": ["Salbutamol inhaler (as needed)", "Vitamin D3 supplement"],
+  "emergency_contact": {
+    "name": "Lukas Becker",
+    "relation": "Brother",
+    "phone": "+49 30 87654321"
+  },
+  "insurance": {
+    "provider": "Debeka",
+    "type": "Private",
+    "tariff": "Premium Plus",
+    "policy_number": "DEB-2019-88472914",
+    "member_since": "2019-01-01",
+    "monthly_premium_eur": 487.5,
+    "annual_deductible_eur": 500,
+    "deductible_used_eur": 312.5,
+    "coverage": {
+      "general_practitioner": "100%",
+      "specialists": "100%",
+      "dental_basic": "100%",
+      "dental_major": "80%",
+      "vision": "80% up to EUR 300/year",
+      "alternative_medicine": "70%",
+      "hospital_private_room": "Included"
+    }
+  }
+}
